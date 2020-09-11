@@ -7,9 +7,6 @@
       <Origin x="145.65917866900003" y="-17.54699268973456"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
-        <TileSet href="7" units-per-pixel="1222.99245234375007" order="7"/>
-        <TileSet href="8" units-per-pixel="611.49622617187504" order="8"/>
-        <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
         <TileSet href="10" units-per-pixel="152.87405654296876" order="10"/>
         <TileSet href="11" units-per-pixel="76.43702827148438" order="11"/>
         <TileSet href="12" units-per-pixel="38.21851413574219" order="12"/>
@@ -17,6 +14,7 @@
         <TileSet href="14" units-per-pixel="9.55462853393555" order="14"/>
         <TileSet href="15" units-per-pixel="4.77731426696777" order="15"/>
         <TileSet href="16" units-per-pixel="2.38865713348389" order="16"/>
+        <TileSet href="17" units-per-pixel="1.19432856674194" order="17"/>
       </TileSets>
     </TileMap>
     
